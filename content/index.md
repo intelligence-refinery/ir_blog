@@ -13,6 +13,11 @@ To serve locally
 npx quartz build --serve
 ```
 
+To remove cache
+```
+rm -rf .quartz-cache build
+```
+
 To push new content to git, run 
 ```
 npx quartz sync --help
