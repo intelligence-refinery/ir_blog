@@ -8,8 +8,16 @@ draft: false
 2. Symlink AGENTS.md to CLAUDE.md for Claude Code
 
 
+
 > [!TIP] YES!
 > Contents
+
+:::{.margin}
+2. Symlink AGENTS.md to CLAUDE.md for Claude Code
+
+![dsss](darwing_example.svg)
+
+:::
 
 
 ## Heading 2
