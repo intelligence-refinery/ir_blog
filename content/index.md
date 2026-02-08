@@ -2,17 +2,11 @@
 title: Welcome to Intelligence Refinery
 draft: false
 ---
-
-
-Welcome to Intelligence Refinery!
-
-Here you will find snippets of our lives. 
-
 <div class="section-grid">
 
 <div class="section-card">
 
-## 📚 [Handbooks](/Handbooks.md)
+## 📚 [Handbooks](/content/Handbooks/Handbooks.md)
 
 - [Getting Started with Claude Code](Handbooks/getting-started-with-cc.md) - Guides and documentation for working effectively with AI coding assistants.
 
@@ -20,10 +14,10 @@ Here you will find snippets of our lives.
 
 <div class="section-card">
 
-## 🍳 [Recipes](/Recipes.md)
+## 🍳 [How-Tos](/content/How-Tos/How-Tos.md)
 
-- [Data Profile Report](Recipes/data-profile-report-cc-dbt.md) - Technical recipes for data engineering and analytics workflows.
-- [Hosting a Quartz Site](Recipes/host-quartz-site.md) - Step-by-step guides for deploying and maintaining your Quartz site.
+- [Data Profile Report](data-profile-report-cc-dbt.md) - Technical recipes for data engineering and analytics workflows.
+- [Hosting a Quartz Site](host-quartz-site.md) - Step-by-step guides for deploying and maintaining your Quartz site.
 
 </div>
 

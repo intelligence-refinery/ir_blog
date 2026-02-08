@@ -13,10 +13,10 @@ draft: false
 > Contents
 
 :::{.margin}
+
 2. Symlink AGENTS.md to CLAUDE.md for Claude Code
 
 ![dsss](darwing_example.svg)
-
 :::
 
 
