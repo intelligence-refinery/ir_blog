@@ -6,7 +6,7 @@ draft: false
 
 <div class="section-card">
 
-## 📚 [Handbooks](/content/Handbooks/Handbooks.md)
+## 📚 [Handbooks](/Handbooks.md)
 
 - [Getting Started with Claude Code](Handbooks/getting-started-with-cc.md) - Guides and documentation for working effectively with AI coding assistants.
 
@@ -14,7 +14,7 @@ draft: false
 
 <div class="section-card">
 
-## 🍳 [How-Tos](/content/How-Tos/How-Tos.md)
+## 🍳 [How-Tos](/How-Tos.md)
 
 - [Data Profile Report](data-profile-report-cc-dbt.md) - Technical recipes for data engineering and analytics workflows.
 - [Hosting a Quartz Site](host-quartz-site.md) - Step-by-step guides for deploying and maintaining your Quartz site.
